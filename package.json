@@ -1,4 +1,5 @@
 {
+  "homepage": "http://purveshgosai14.github.io/MyReads",
   "dependencies": {
     "prop-types": "^15.5.8",
     "react": "^15.5.4",
